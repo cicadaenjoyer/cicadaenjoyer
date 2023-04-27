@@ -6,3 +6,5 @@ I'm currently working on a personal website that you can find in my repositories
 
 Personal Website:
 <img src="/assets/simonwalk.gif" width="100" height="100" />
+
+https://aag5734.github.io/
