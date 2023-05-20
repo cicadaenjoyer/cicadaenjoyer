@@ -24,8 +24,8 @@ const abe = {
         misc: [".NET", "Agile Work Methodology", "Scrum Software Development"]
     },
     favGames: ["Final Fantasy IX", "SMT: Strange Journey", "Dragon Quest XI"],
-    wiseAdvice: "When you're feeling frustrated by a bug, keep in mind that 
-    the very first combo system in a fighting game came from one"
+    funFact: "The first combo system in a fighting game was thanks in due to a
+    bug for the game Street Fighter 2"
 };
 ```
 
