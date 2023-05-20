@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: Abe Hernandez](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: Abe Hernandez](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/abraham-hernandez-8951971b7/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://aag5734.github.io/)
 
 
@@ -14,7 +14,7 @@ const anmol = {
     pronouns: "He" | "Him",
     os: ["Windows 10", "Manjaro Linux"].
     code: ["Java", "Python", "C/C#", "Ruby"],
-    askMeAbout: ["Software Development", "AI", "Database Management", "Linux Geek"],
+    askMeAbout: ["Software Development", "AI", "Database Management", "Linux", "Raspberry Pi"],
     technologies: {
         backEnd: {
             js: ["Node", "Angular"],
