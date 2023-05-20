@@ -14,7 +14,8 @@ const abe = {
     pronouns: "He" | "Him",
     os: ["Windows 10", "Manjaro Linux"].
     code: ["Java", "Python", "C/C#", "Ruby"],
-    askMeAbout: ["Software Development", "AI", "Database Management", "Linux", "Raspberry Pi"],
+    askMeAbout: ["Software Development", "AI", "Database Management", "Linux", 
+    "Raspberry Pi"],
     technologies: {
         backEnd: {
             js: ["Node", "Angular"],
@@ -23,7 +24,9 @@ const abe = {
         misc: [".NET", "Agile Work Methodology", "Scrum Software Development"]
     },
     favGames: ["Final Fantasy IX", "SMT: Strange Journey", "Dragon Quest XI"],
-    wiseAdvice: "When you're feeling frustrated by a bug, keep in mind that Space Invaders and Street Fighter wouldn't have been as revolutionary without them"
+    wiseAdvice: "When you're feeling frustrated by a bug, keep in mind that 
+    Space Invaders and Street Fighter wouldn't have been as revolutionary 
+    without them"
 };
 ```
 
