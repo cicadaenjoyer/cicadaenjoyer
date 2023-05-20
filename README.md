@@ -10,7 +10,7 @@
 
 
 ```javascript
-const anmol = {
+const abe = {
     pronouns: "He" | "Him",
     os: ["Windows 10", "Manjaro Linux"].
     code: ["Java", "Python", "C/C#", "Ruby"],
