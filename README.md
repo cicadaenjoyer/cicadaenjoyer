@@ -27,6 +27,6 @@ const anmol = {
 };
 ```
 
-<img src="/assets/cloud.gif" width="60"> <em><b>I'm an avid fan of turn-based RPGs. My aspiration is to one day bring to life the RPG I've always envisioned in my dreams.</b> 😊</em>
+<img src="/assets/cloud.gif" width="60"> <em><b>I'm an avid fan of turn-based RPGs. My dream is to one day create the game that I've always wanted to make</b> 😊</em>
 
 ---
