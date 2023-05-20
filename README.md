@@ -25,8 +25,7 @@ const abe = {
     },
     favGames: ["Final Fantasy IX", "SMT: Strange Journey", "Dragon Quest XI"],
     wiseAdvice: "When you're feeling frustrated by a bug, keep in mind that 
-    Space Invaders and Street Fighter wouldn't have been as revolutionary 
-    without them"
+    the very first combo system in a fighting game came from one"
 };
 ```
 
