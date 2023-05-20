@@ -1,5 +1,5 @@
 <h2><img src="/assets/simonwhip.gif" width="30"/> My name is Abraham (Abe) Hernandez <img src="/assets/funkykong.gif" width="50" height="50"></h2>
-<img align='right' src="/assets/luffyhat.gif" width="230">
+<img align='right' src="/assets/luffy.gif" width="230">
 <p><em>Studying Computer Science at <a href="https://www.rit.edu/">Rochester Institute of Technology
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
