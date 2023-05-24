@@ -29,6 +29,6 @@ const abe = {
 };
 ```
 
-<img src="/assets/cloud.gif" width="60"> <em><b>I'm an avid fan of turn-based RPGs. My dream is to one day create the game that I've always wanted to make</b> 😊</em>
+<img src="/assets/cloud.gif" width="60"> <em><b>Currently developing my dream videogame. Can't disclose anything about it except for the fact that it's going to be awesome</b> 😊</em>
 
 ---
