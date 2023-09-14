@@ -3,6 +3,9 @@
 <p><em>Studying Computer Science at <a href="https://www.rit.edu/">Rochester Institute of Technology
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<p><em>Interning at <a href="https://morevang.com/">More Vang
+</a>
+</em></p>
 
 
 [![Linkedin: Abe Hernandez](https://img.shields.io/badge/-abe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/abraham-hernandez-8951971b7/)
