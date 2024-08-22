@@ -18,7 +18,7 @@ const abe = {
     os: ["Windows 10", "Manjaro Linux"].
     code: ["Java", "Python", "C/C#", "Ruby"],
     askMeAbout: ["Software Development", "AI", "Database Management", "Linux", 
-    "Raspberry Pi"],
+    "Raspberry Pi", "Visual Novels],
     technologies: {
         backEnd: {
             js: ["Node", "Angular"],
