@@ -15,8 +15,8 @@
 ```javascript
 const abe = {
     pronouns: "He" | "Him",
-    os: ["Windows 10", "Manjaro Linux"].
-    code: ["Java", "Python", "C/C#", "Ruby"],
+    os: ["Ubuntu", "Windows 11"].
+    code: ["JavaScript", "Python", "C", "Java"],
     askMeAbout: ["Software Development", "AI", "Database Management", "Linux", 
     "Raspberry Pi", "Visual Novels],
     technologies: {
@@ -26,7 +26,7 @@ const abe = {
         databases: ["MongoDB", "SQL", "NoSQL"],
         misc: [".NET", "Agile Work Methodology", "Scrum Software Development"]
     },
-    favGames: ["Final Fantasy IX", "SMT: Strange Journey", "Dragon Quest XI"],
+    favGames: ["Nier Replicant", "SMT: Strange Journey", "Dragon Quest XI"],
     funFact: "The first combo system in a fighting game was thanks in due to a
     bug for the game Street Fighter 2"
 };
