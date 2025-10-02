@@ -1,34 +1,41 @@
-<h2><img src="/assets/simonwhip.gif" width="30"/> My name is Abraham (Abe) Hernandez <img src="/assets/funkykong.gif" width="50" height="50"></h2>
+<h2><img src="/assets/simonwhip.gif" width="30"/> Abraham (Abe) Hernandez <img src="/assets/funkykong.gif" width="50" height="50"></h2>
 <img align='right' src="/assets/luffy.gif" width="230">
-<p><em>Studying Computer Science at <a href="https://www.rit.edu/">Rochester Institute of Technology
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<p><em>Interning at <a href="https://morevang.com/">More Vang
-</a>
-</em></p>
+<p>
+    <em>
+        <p>Bachelor's in Computer Science, Minor in Mathematics; <a href="https://www.rit.edu/">Rochester Institute of Technology</a> Alumni. I like to code.</p>       
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    </em>
+</p>
+<p>
+    <em>
+        Programmer at <a href="https://morevang.com/">More Vang</a>
+    </em>
+</p>
 
 
-[![Linkedin: Abe Hernandez](https://img.shields.io/badge/-abe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/abraham-hernandez-8951971b7/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://www.cicadahub.dev/)
-
+[![LinkedIn: Abe Hernandez](https://img.shields.io/badge/-Abe%20Hernandez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-hernandez-8951971b7/)
+[![Cicada Hub](https://img.shields.io/badge/CicadaHub-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://www.cicadahub.dev/)
 
 ```javascript
 const abe = {
     pronouns: "He" | "Him",
     os: ["Ubuntu", "Windows 11"].
-    code: ["JavaScript", "Python", "C", "Java"],
-    askMeAbout: ["Software Development", "AI", "Database Management", "Linux", 
-    "Raspberry Pi", "Visual Novels],
+    code: ["JavaScript", "Python", "C", "TypeScript"],
+    askMeAbout: ["Cybersecurity", "Artificial Intelligence", "Database Management", "Linux", "Raspberry Pi", "Visual Novels"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Angular"],
+        frontEnd: {
+            "ts": ["React", "React Native", "Angular"]
         },
-        databases: ["MongoDB", "SQL", "NoSQL"],
-        misc: [".NET", "Agile Work Methodology", "Scrum Software Development"]
+        backEnd: [
+            "SQL",
+            "Docker"
+        ],
+        projectManagement: [
+            "Scrum",
+            "Agile"
+        ],
     },
-    favGames: ["Nier Replicant", "SMT: Strange Journey", "Dragon Quest XI"],
-    funFact: "The first combo system in a fighting game was thanks in due to a
-    bug for the game Street Fighter 2"
+    favGames: ["Nier Replicant", "SMT: Strange Journey", "Dragon Quest XI"]
 };
 ```
 
